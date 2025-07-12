@@ -18,6 +18,9 @@ Stackit - A minimal Q&A Forum Platform
 
 ##🔗 View the Lovable Project -(https://questify-answer-hub.lovable.app)
 
+## Final Submission Video
+📹 **Final submission video is available in this repository:** [`final submisssion.mp4`](./final%20submisssion.mp4)
+
 ## Project Description
 StackIt is a scalable, modern Q&A platform inspired by Stack Overflow, designed with a clean, minimal UI using React and TailwindCSS. It enables users to ask questions, provide answers, vote, accept answers, and receive notifications. The backend is powered by Node.js, Express, and MongoDB, ensuring robust performance and scalability. StackIt aims to foster knowledge sharing in a user-friendly, distraction-free environment.
 
