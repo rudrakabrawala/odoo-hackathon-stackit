@@ -16,7 +16,7 @@ Stackit - A minimal Q&A Forum Platform
 - **Kunsh Anand**
   - Email: Kunsh.kanand029@nmims.in 
 
-[🔗 View the Lovable Project](https://lovable.dev/projects/624e078a-a612-470a-a974-7536ff514c78)
+##🔗 View the Lovable Project -(https://questify-answer-hub.lovable.app)
 
 ## Project Description
 StackIt is a scalable, modern Q&A platform inspired by Stack Overflow, designed with a clean, minimal UI using React and TailwindCSS. It enables users to ask questions, provide answers, vote, accept answers, and receive notifications. The backend is powered by Node.js, Express, and MongoDB, ensuring robust performance and scalability. StackIt aims to foster knowledge sharing in a user-friendly, distraction-free environment.
